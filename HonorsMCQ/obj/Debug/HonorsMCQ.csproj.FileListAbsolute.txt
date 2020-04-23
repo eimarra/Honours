@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\HonorsMCQ\bin\Debug\HonorsMCQ.exe.config
+C:\Users\richa\source\repos\HonorsMCQ\bin\Debug\HonorsMCQ.exe
+C:\Users\richa\source\repos\HonorsMCQ\bin\Debug\HonorsMCQ.pdb
+C:\Users\richa\source\repos\HonorsMCQ\obj\Debug\HonorsMCQ.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\HonorsMCQ\obj\Debug\HonorsMCQ.Form1.resources
+C:\Users\richa\source\repos\HonorsMCQ\obj\Debug\HonorsMCQ.Properties.Resources.resources
+C:\Users\richa\source\repos\HonorsMCQ\obj\Debug\HonorsMCQ.QuizBody.resources
+C:\Users\richa\source\repos\HonorsMCQ\obj\Debug\HonorsMCQ.csproj.GenerateResource.cache
+C:\Users\richa\source\repos\HonorsMCQ\obj\Debug\HonorsMCQ.exe
+C:\Users\richa\source\repos\HonorsMCQ\obj\Debug\HonorsMCQ.pdb
+C:\Users\richa\source\repos\HonorsMCQ\obj\Debug\HonorsMCQ.FinalScreen.resources
